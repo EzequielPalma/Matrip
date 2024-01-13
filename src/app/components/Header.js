@@ -17,7 +17,11 @@ const Header = () => {
              Acerca de
             </Link>
           </li>
-          {/* Agrega más enlaces según tus necesidades */}
+          <li>
+            <Link href="/dondecomer">
+             ¿Dónde comer?
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>

@@ -1,6 +1,8 @@
 "use client";
 
+// MiComponente.js
 import React, { useEffect, useState } from 'react';
+import CardTemp from "./CardTemp"
 
 const MiComponente = () => {
   const [resolvedAddress, setResolvedAddress] = useState(null);
@@ -17,7 +19,6 @@ const MiComponente = () => {
 
         // Accede al primer día del array 'days'
         const firstDay = data.days && data.days.length > 0 ? data.days[0] : null;
-
         setResolvedAddress(data.resolvedAddress);
         setWeatherData(firstDay);
         setLoading(false); // Indicar que la carga ha finalizado
@@ -32,25 +33,8 @@ const MiComponente = () => {
 
   return (
     <div>
-      {resolvedAddress ? (
-        <h1>{resolvedAddress}</h1>
-      ) : (
-        loading ? <p>Cargando...</p> : <p>No se pudo obtener la información</p>
-      )}
-      {weatherData && !loading ? (
-        <div>
-          <h2>Condiciones: {weatherData.conditions}</h2>
-          <p>Descripción: {weatherData.description}</p>
-          <img
-  src={`/images/${weatherData.icon}.svg`}
-  alt="Ícono del clima"
-  style={{ maxWidth: '50px', maxHeight: '50px' }}
-/>
-          
-          <p>Humedad: {weatherData.humidity}%</p>
-          <p>Temperatura: {weatherData.temp}°C</p>
-        </div>
-      ) : null}
+      
+      <CardTemp resolvedAddress={resolvedAddress} weatherData={weatherData} loading={loading} />
     </div>
   );
 };
