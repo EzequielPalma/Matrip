@@ -69,14 +69,22 @@ header {
   }
   ul.slick-dots {
     position: relative;
-   
-    background-color: rgb(31 41 55);
+    
+    /* background-color: rgb(31 41 55); */
 
 }
 
-.slick-dots li button{
-  color: white !important;
+.slick-dots li button {
+  background-color: transparent !important;
+  border: 4px solid rgb(31 41 55) !important;
 }
+
+/* Estilo para los dots activos (cuando están seleccionados) */
+.slick-dots li.slick-active button {
+  background-color: rgb(31 41 55) !important;
+  border-color: transparent !important;
+}
+
   h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;

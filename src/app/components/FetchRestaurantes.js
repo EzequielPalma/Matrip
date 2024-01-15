@@ -33,6 +33,7 @@ const FetchRestaurantes = () => {
     slidesToShow: 3, // Ajusta según tus necesidades
     slidesToScroll: 3,
     lazyLoad: "ondemand",
+    draggable: true,
     responsive: [
       {
         breakpoint: 1100,
