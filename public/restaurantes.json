@@ -4,115 +4,134 @@
         "name": "Gastronomía del Sol",
         "description": "Sumérgete en una experiencia culinaria única en Gastronomía del Sol, donde la fusión de sabores mediterráneos se encuentra con la creatividad contemporánea. Disfruta de platos elaborados con ingredientes frescos y locales, en un ambiente elegante con vistas espectaculares.",
         "price": "€€€",
-        "address": "Calle del Sabor, 123, 28001 Madrid"
+        "address": "Calle del Sabor, 123, 28001 Madrid",
+        "image":"./images/1.jpg"
       },
       {
         "name": "La Tradición Española",
         "description": "Déjate llevar por el encanto de La Tradición Española, un acogedor rincón que celebra la cocina española tradicional. Nuestros chefs expertos crean platos auténticos con un toque moderno, ofreciendo una experiencia gastronómica que deleitará tus sentidos.",
         "price": "€€",
-        "address": "Plaza de la Experiencia, 456, 28002 Madrid"
+        "address": "Plaza de la Experiencia, 456, 28002 Madrid",
+        "image":"./images/2.jpg"
       },
       {
         "name": "Fusión Global",
         "description": "Explora el mundo de los sabores en Fusión Global, un restaurante innovador que combina ingredientes de todo el mundo en creaciones culinarias únicas. Sumérgete en un viaje gastronómico que te llevará desde Asia hasta América, todo en un solo lugar.",
         "price": "€€€€",
-        "address": "Avenida de la Creatividad, 789, 28003 Madrid"
+        "address": "Avenida de la Creatividad, 789, 28003 Madrid",
+        "image":"./images/3.jpg"
       },
       {
         "name": "Sabores del Barrio",
         "description": "Descubre la auténtica cocina local en Sabores del Barrio, donde cada plato cuenta una historia de tradición y pasión. Desde tapas exquisitas hasta platos principales llenos de sabor, nuestro restaurante es un tributo a la riqueza culinaria del barrio.",
         "price": "€€",
-        "address": "Calle de la Tradición, 234, 28004 Madrid"
+        "address": "Calle de la Tradición, 234, 28004 Madrid",
+        "image":"./images/4.png"
       },
       {
         "name": "Delicias Mediterráneas",
         "description": "Embárcate en un viaje culinario por el Mediterráneo en Delicias Mediterráneas. Con ingredientes frescos y recetas inspiradas en la región, nuestro restaurante te transportará a las costas soleadas mientras disfrutas de una experiencia gastronómica inolvidable.",
         "price": "€€€",
-        "address": "Paseo de la Brisa, 567, 28005 Madrid"
+        "address": "Paseo de la Brisa, 567, 28005 Madrid",
+        "image":"./images/5.jpg"
       },
       {
         "name": "Sazón Artístico",
         "description": "Siente la magia de Sazón Artístico, donde la cocina se convierte en una forma de arte. Nuestros platos cuidadosamente elaborados son una expresión de creatividad y sabor, creando una experiencia única para los amantes de la gastronomía.",
         "price": "€€€€",
-        "address": "Calle de la Inspiración, 890, 28006 Madrid"
+        "address": "Calle de la Inspiración, 890, 28006 Madrid",
+        "image":"./images/20.jpg"
       },
       {
         "name": "Rincón del Sabor",
         "description": "Encuentra la verdadera esencia de la cocina en el Rincón del Sabor, un lugar acogedor donde cada bocado cuenta una historia. Desde clásicos reconfortantes hasta creaciones innovadoras, nuestro menú celebra la diversidad de sabores.",
         "price": "€€",
-        "address": "Plaza de la Pasión, 123, 28007 Madrid"
+        "address": "Plaza de la Pasión, 123, 28007 Madrid",
+        "image":"./images/7.jpg"
       },
       {
         "name": "Aromas del Mundo",
         "description": "Embriágate con los Aromas del Mundo, un restaurante que lleva tus sentidos a un viaje culinario global. Descubre sabores exóticos y combinaciones audaces en un ambiente moderno y vibrante.",
         "price": "€€€€",
-        "address": "Avenida de la Aventura, 456, 28008 Madrid"
+        "address": "Avenida de la Aventura, 456, 28008 Madrid",
+        "image":"./images/8.jpg"
       },
       {
         "name": "Cocina Creativa",
         "description": "Déjate sorprender por la Cocina Creativa, donde cada plato es una obra maestra de innovación y sabor. Nuestros chefs expertos juegan con texturas y presentaciones para ofrecer una experiencia gastronómica única.",
         "price": "€€€",
-        "address": "Calle de la Imaginación, 789, 28009 Madrid"
+        "address": "Calle de la Imaginación, 789, 28009 Madrid",
+        "image":"./images/9.jpg"
       },
       {
         "name": "Sabor y Tradición",
         "description": "Disfruta de una experiencia auténtica en Sabor y Tradición, donde la cocina casera y los sabores tradicionales se mezclan para crear platos reconfortantes. Cada visita es como volver a casa, pero con una explosión de sabores en cada bocado.",
         "price": "€€",
-        "address": "Plaza de la Receta, 101, 28010 Madrid"
+        "address": "Plaza de la Receta, 101, 28010 Madrid",
+        "image":"./images/10.jpg"
       },
       {
         "name": "Elegancia Gastronómica",
         "description": "Vive la elegancia en cada plato en Elegancia Gastronómica, un lugar donde la sofisticación se encuentra con la cocina excepcional. Desde aperitivos refinados hasta postres indulgentes, cada detalle cuenta en esta experiencia culinaria única.",
         "price": "€€€€",
-        "address": "Avenida de la Distinción, 202, 28011 Madrid"
+        "address": "Avenida de la Distinción, 202, 28011 Madrid",
+        "image":"./images/11.jpg"
       },
       {
         "name": "Rincones del Sabor",
         "description": "Descubre los secretos culinarios en los Rincones del Sabor, un lugar que rinde homenaje a los sabores locales y a las recetas transmitidas de generación en generación. Cada plato cuenta una historia de amor por la cocina.",
         "price": "€€",
-        "address": "Calle de la Tradición Familiar, 303, 28012 Madrid"
+        "address": "Calle de la Tradición Familiar, 303, 28012 Madrid",
+        "image":"./images/12.jpg"
       },
       {
         "name": "Sinfonía de Sabores",
         "description": "Sumérgete en la Sinfonía de Sabores, donde cada plato es una nota en la experiencia culinaria perfecta. Nuestros chefs son verdaderos artistas, creando composiciones deliciosas que deleitan tanto al paladar como a la vista.",
         "price": "€€€€",
-        "address": "Plaza del Gusto, 404, 28013 Madrid"
+        "address": "Plaza del Gusto, 404, 28013 Madrid",
+        "image":"./images/13.jpg"
       },
       {
         "name": "Delicias Gourmet",
         "description": "Experimenta las Delicias Gourmet, un rincón exclusivo donde la alta cocina se encuentra con los ingredientes más selectos. Cada plato es una obra maestra de sabor, presentación y atención al detalle.",
         "price": "€€€",
-        "address": "Avenida de la Exquisitez, 505, 28014 Madrid"
+        "address": "Avenida de la Exquisitez, 505, 28014 Madrid",
+        "image":"./images/14.jpg"
       },
       {
         "name": "Aromas y Texturas",
         "description": "Déjate llevar por los Aromas y Texturas, un restaurante que despierta tus sentidos con combinaciones inesperadas. Desde texturas crujientes hasta aromas envolventes, cada plato es una experiencia única.",
         "price": "€€€€",
-        "address": "Calle de la Sensación, 606, 28015 Madrid"
+        "address": "Calle de la Sensación, 606, 28015 Madrid",
+        "image":"./images/15.jpg"
       },
       {
         "name": "Sabor del Barrio",
         "description": "Redescubre el auténtico Sabor del Barrio, donde la cocina local se encuentra con un toque moderno. Nuestro menú refleja la diversidad de sabores y la calidez de la comunidad en cada plato.",
         "price": "€€",
-        "address": "Plaza de la Comunidad, 707, 28016 Madrid"
+        "address": "Plaza de la Comunidad, 707, 28016 Madrid",
+        "image":"./images/16.jpg"
       },
       {
         "name": "Cocina del Alma",
         "description": "Siente la esencia en la Cocina del Alma, un lugar donde cada plato es cocinado con pasión y dedicación. Descubre sabores que tocan el corazón en un ambiente acogedor y familiar.",
         "price": "€€€",
-        "address": "Avenida de la Pasión, 808, 28017 Madrid"
+        "address": "Avenida de la Pasión, 808, 28017 Madrid",
+        "image":"./images/17.jpg"
       },
       {
         "name": "Delicias del Mundo",
         "description": "Embárcate en un viaje culinario en Delicias del Mundo, donde la diversidad de sabores y culturas se fusiona en platos extraordinarios. Descubre la riqueza gastronómica de diferentes regiones sin salir de Madrid.",
         "price": "€€€€",
-        "address": "Calle de la Aventura, 909, 28018 Madrid"
+        "address": "Calle de la Aventura, 909, 28018 Madrid",
+        "image":"./images/18.jpg"
       },
       {
         "name": "Gourmet Urbano",
         "description": "Explora el Gourmet Urbano, un oasis gastronómico en pleno corazón de la ciudad. Con una fusión de cocina contemporánea y estilo urbano, nuestro restaurante ofrece una experiencia única para los amantes de la buena comida.",
         "price": "€€€",
-        "address": "Plaza de la Innovación, 1010, 28019 Madrid"
+        "address": "Plaza de la Innovación, 1010, 28019 Madrid",
+        "image":"./images/19.jpg"
       }
     ]
   }

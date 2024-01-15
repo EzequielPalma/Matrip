@@ -31,7 +31,7 @@ const FetchRestaurantes = () => {
     infinite: true,
     speed: 500,
     slidesToShow: 3, // Ajusta según tus necesidades
-    slidesToScroll: 1,
+    slidesToScroll: 3,
     responsive: [
       {
         breakpoint: 768,
