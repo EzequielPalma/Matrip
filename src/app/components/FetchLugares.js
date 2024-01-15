@@ -25,16 +25,18 @@ const FetchLugares = () => {
   }, []);
 
   const carouselSettings = {
+
     dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 3, // Ajusta según tus necesidades
-    slidesToScroll: 1,
+    slidesToScroll: 3,
+    lazyLoad: "ondemand",
     responsive: [
       {
         breakpoint: 768,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 3,
         },
       },
     ],

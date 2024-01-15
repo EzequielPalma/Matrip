@@ -20,7 +20,7 @@ header {
     height: 550px;
   }
  
-
+  
 
   #up{
     background: url('/images/madrid.jpeg');
@@ -65,7 +65,7 @@ header {
   }
  
   .carrusel{
-    margin-bottom: 100px;
+    margin-bottom: 60px;
   }
   ul.slick-dots {
     position: relative;

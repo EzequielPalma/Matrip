@@ -32,11 +32,13 @@ const FetchRestaurantes = () => {
     speed: 500,
     slidesToShow: 3, // Ajusta según tus necesidades
     slidesToScroll: 3,
+    lazyLoad: "ondemand",
     responsive: [
       {
-        breakpoint: 768,
+        breakpoint: 1100,
         settings: {
-          slidesToShow: 1,
+          // slidesToShow: 2,
+          // slidesToScroll: 2
         },
       },
     ],
