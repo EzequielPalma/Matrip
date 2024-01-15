@@ -35,7 +35,6 @@ export default function ModalTemp() {
                     <div className="relative rounded-lg shadow w-full max-w-2xl">
                         <div className="p-4 md:p-5 space-y-4">
                             <MiComponente />
-                            {/* Puedes seguir agregando más contenido aquí si es necesario */}
                         </div>
 
                         <div className="flex items-center p-4 md:p-5  rounded-b dark:border-gray-600">
