@@ -1,22 +1,21 @@
-"use client"
+"use client";
 
 import React, { useEffect, useState } from 'react';
-import CardComer from './CardComer';
+import CardLugares from "./CardLugares"
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
-const FetchRestaurantes = () => {
-  const [restaurantes, setRestaurantes] = useState([]);
+const FetchLugares = () => {
+  const [places, setPlaces] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/restaurantes.json");
+        const response = await fetch("/lugares.json");
         const data = await response.json();
-        console.log("Datos cargados:", data.restaurantes);
 
-        setRestaurantes(data.restaurantes);
+        setPlaces(data.places);
       } catch (error) {
         console.error('Error al cargar el archivo JSON:', error);
       }
@@ -25,7 +24,6 @@ const FetchRestaurantes = () => {
     fetchData();
   }, []);
 
-  // Configuración del carrusel
   const carouselSettings = {
     dots: true,
     infinite: true,
@@ -43,14 +41,14 @@ const FetchRestaurantes = () => {
   };
 
   return (
-    <Slider {...carouselSettings} className="carrusel">
-      {restaurantes.map((item, index) => (
-        <div key={index} className="tarjeta ">
-          <CardComer item={item} />
-        </div>
-      ))}
-    </Slider>
+      <Slider {...carouselSettings} className="carrusel">
+        {places.map((item, index) => (
+          <div key={index} className="tarjeta">
+            <CardLugares item={item} />
+          </div>
+        ))}
+      </Slider>
   );
 };
 
-export default FetchRestaurantes;
+export default FetchLugares;

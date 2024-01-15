@@ -1,0 +1,121 @@
+{
+    "places": [
+      {
+        "name": "Museo del Prado",
+        "description": "El Museo del Prado es uno de los museos más destacados del mundo. Fundado en 1819, alberga una impresionante colección de arte europeo desde el siglo XII hasta principios del siglo XX. Entre sus obras maestras se encuentran pinturas de artistas como Velázquez, Goya, y El Bosco.",
+        "address": "Paseo del Prado, s/n, 28014 Madrid, España",
+        "image":"./images/prado.jpg"
+      },
+      {
+        "name": "Parque del Retiro",
+        "description": "El Parque del Retiro es un oasis verde en el corazón de Madrid. Con un extenso lago, bellos jardines y una arquitectura impresionante, este parque ofrece un escape tranquilo del bullicio de la ciudad. Puedes pasear en bote, disfrutar de eventos culturales o simplemente relajarte en la naturaleza.",
+        "address": "Plaza de la Independencia, 7, 28001 Madrid, España",
+        "image":"./images/retiro.jpg"
+      },
+      {
+        "name": "Palacio Real",
+        "description": "El Palacio Real es la residencia oficial de la monarquía española. Con más de 3,000 habitaciones, este imponente palacio ofrece una visión de la historia y la arquitectura de España. Los visitantes pueden explorar los lujosos salones, los hermosos jardines y disfrutar de vistas panorámicas de la ciudad.",
+        "address": "Calle de Bailén, s/n, 28071 Madrid, España",
+        "image":"./images/palacioreal.jpg"
+      },
+      {
+        "name": "Mercado San Miguel",
+        "description": "El Mercado San Miguel es un mercado tradicional que ofrece una experiencia gastronómica única. Con una amplia variedad de productos frescos y locales, así como puestos de tapas y vinos, es el lugar perfecto para probar la auténtica cocina madrileña.",
+        "address": "Plaza de San Miguel, s/n, 28005 Madrid, España",
+        "image":"./images/mercado.jpg"
+      },
+      {
+        "name": "Gran Vía",
+        "description": "Gran Vía es la principal calle comercial de Madrid, conocida por sus tiendas, teatros y arquitectura impresionante. Pasea por esta animada avenida y descubre la vibrante vida urbana, desde elegantes boutiques hasta icónicos edificios históricos.",
+        "address": "Gran Vía, 28013 Madrid, España",
+        "image":"./images/granvia.jpg"
+      },
+      {
+        "name": "Templo de Debod",
+        "description": "El Templo de Debod es un antiguo templo egipcio que fue trasladado y reconstruido en Madrid. Ubicado en un parque con vistas panorámicas, este sitio ofrece una experiencia única para explorar la historia antigua mientras disfrutas de hermosas puestas de sol sobre la ciudad.",
+        "address": "Calle Ferraz, 1, 28008 Madrid, España",
+        "image":"./images/templo.jpeg"
+      },
+      {
+        "name": "Plaza Mayor",
+        "description": "La Plaza Mayor es uno de los lugares más emblemáticos de Madrid. Con su arquitectura barroca, la plaza alberga restaurantes, tiendas y eventos culturales. Es el lugar perfecto para sumergirse en la vida social y disfrutar de la arquitectura histórica.",
+        "address": "Plaza Mayor, 28012 Madrid, España",
+        "image":"./images/plazamayor.jpg"
+      },
+      {
+        "name": "CaixaForum Madrid",
+        "description": "CaixaForum Madrid es un centro cultural y artístico que alberga exposiciones, conciertos y eventos culturales. Ubicado en un impresionante edificio modernista, este espacio ofrece una mezcla única de arte contemporáneo y arquitectura innovadora.",
+        "address": "Paseo del Prado, 36, 28014 Madrid, España",
+        "image":"./images/caixa.jpg"
+      },
+      {
+        "name": "Puerta del Sol",
+        "description": "Puerta del Sol es el corazón geográfico y social de Madrid. Rodeada de tiendas, restaurantes y edificios emblemáticos, la plaza es famosa por el reloj de la Casa de Correos y su papel central en las celebraciones de Año Nuevo.",
+        "address": "Puerta del Sol, 28013 Madrid, España",
+        "image":"./images/plaza.jpg"
+      },
+      {
+        "name": "Catedral de la Almudena",
+        "description": "La Catedral de la Almudena es una joya arquitectónica situada junto al Palacio Real. Con un diseño ecléctico, esta catedral combina estilos desde neogótico hasta neoclásico. Su interior impresiona con hermosos altares y una atmósfera serena.",
+        "address": "Calle Bailén, 10, 28013 Madrid, España",
+        "image":"./images/catedral.jpg"
+      },
+      {
+        "name": "El Rastro",
+        "description": "El Rastro es el mercado al aire libre más grande de Madrid, conocido por sus puestos de antigüedades, ropa y artesanías. Los domingos, la zona se llena de vida con locales y visitantes que buscan tesoros únicos y disfrutan de la animada atmósfera.",
+        "address": "Calle de la Ribera de Curtidores, 28005 Madrid, España",
+        "image":"./images/rastro.jpeg"
+      },
+      {
+        "name": "Museo Reina Sofía",
+        "description": "El Museo Reina Sofía es uno de los principales museos de arte contemporáneo en Madrid. Hogar de obras maestras como 'Guernica' de Picasso, el museo ofrece una visión única de la evolución del arte español desde el siglo XX hasta la actualidad.",
+        "address": "Calle de Santa Isabel, 52, 28012 Madrid, España",
+        "image":"./images/museo.jpg"
+      },
+      {
+        "name": "Barrio de La Latina",
+        "description": "El Barrio de La Latina es conocido por su ambiente bohemio, estrechas calles empedradas y animados bares de tapas. Explora este encantador barrio y disfruta de la auténtica vida nocturna madrileña, llena de risas, música y deliciosas degustaciones.",
+        "address": "La Latina, 28005 Madrid, España",
+        "image":"./images/latina.jpg"
+      },
+      {
+        "name": "Parque Warner Madrid",
+        "description": "Parque Warner Madrid es un parque temático que ofrece emocionantes atracciones y entretenimiento para toda la familia. Desde montañas rusas hasta espectáculos en vivo, el parque brinda diversión y aventura a visitantes de todas las edades.",
+        "address": "M-301, Km 15.5, 28330 San Martín de la Vega, Madrid, España",
+        "image":"./images/warner.jpeg"
+      },
+      {
+        "name": "Teatro Real",
+        "description": "El Teatro Real es un majestuoso teatro de ópera situado en el corazón de Madrid. Con una rica historia y una arquitectura impresionante, el teatro ofrece producciones líricas y escénicas de alta calidad, brindando a los espectadores una experiencia cultural única.",
+        "address": "Plaza de Isabel II, s/n, 28013 Madrid, España",
+        "image":"./images/teatro.jpg"
+      },
+      {
+        "name": "Estadio Santiago Bernabéu",
+        "description": "El Estadio Santiago Bernabéu es el icónico hogar del Real Madrid. Los amantes del fútbol pueden explorar este legendario estadio, disfrutar de un recorrido por las instalaciones y sumergirse en la historia del club más exitoso de España.",
+        "address": "Av. de Concha Espina, 1, 28036 Madrid, España",
+        "image":"./images/bernabeu.jpg"
+      },
+      
+      {
+        "name": "Zoo Aquarium de Madrid",
+        "description": "El Zoo Aquarium de Madrid es un destino perfecto para amantes de la fauna. Con una amplia variedad de animales, espectáculos y actividades interactivas, este zoológico ofrece una experiencia educativa y entretenida para toda la familia.",
+        "address": "Casa de Campo, s/n, 28011 Madrid, España",
+        "image":"./images/aquarium.jpg"
+      },
+      {
+        "name": "Círculo de Bellas Artes",
+        "description": "El Círculo de Bellas Artes es un centro cultural emblemático de Madrid. Con una programación diversa de eventos culturales, exposiciones y espectáculos, este edificio histórico es un faro de la creatividad en la ciudad.",
+        "address": "Calle de Alcalá, 42, 28014 Madrid, España",
+        "image":"./images/circulo.jpg"
+      },
+      {
+        "name": "Teleférico de Madrid",
+        "description": "El Teleférico de Madrid ofrece vistas panorámicas impresionantes de la ciudad. Conectando el Parque del Oeste con la Casa de Campo, este viaje en teleférico proporciona una experiencia única y emocionante sobre los tejados de Madrid.",
+        "address": "Paseo del Pintor Rosales, s/n, 28008 Madrid, España",
+        "image":"./images/teleferico.jpeg"
+      }
+    ]
+  }
+     
+  
