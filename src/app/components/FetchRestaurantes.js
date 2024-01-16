@@ -36,17 +36,17 @@ const FetchRestaurantes = () => {
     draggable: true,
     responsive: [
       {
-        breakpoint: 1100,
+        breakpoint: 768,
         settings: {
-          // slidesToShow: 2,
-          // slidesToScroll: 2
+          slidesToShow: 1,
+          slidesToScroll: 1
         },
       },
     ],
   };
 
   return (
-    <Slider {...carouselSettings} className="carrusel">
+    <Slider {...carouselSettings} className="carrusel ">
       {restaurantes.map((item, index) => (
         <div key={index} className="tarjeta ">
           <CardComer item={item} />

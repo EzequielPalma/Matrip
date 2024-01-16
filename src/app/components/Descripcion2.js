@@ -7,7 +7,7 @@ const Descripcion2 = () => {
 
   return (
     <motion.div
-      initial={{ opacity: 0.1, y: 220, scale: 0.6 }}
+      initial={{ opacity: 0.1, y: 220, scale: 0.4 }}
       animate={{ opacity: 1, y: 0, scale: 1 }}
       transition={{ duration: 2.5 }}
       drag
