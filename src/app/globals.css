@@ -6,7 +6,8 @@
 
 
 header {
-    
+    background-size: cover;
+    background-position: center;
     height: 100vh;
     display: flex;
     align-items: flex-end;
@@ -24,26 +25,22 @@ header {
 
   #up{
     background: url('/images/madrid.jpeg');
-    background-size: cover;
-    background-position: center;
+  
   }
 
   #quever{
     background: url('/images/madridquever.jpeg');
-    background-size: cover;
-    background-position: center;
+   
   }
 
   #sobrenosotros{
     background: url('/images/madridsobrenosotros.jpeg');
-    background-size: cover;
-    background-position: center;
+
   }
 
   #comer {
     background: url('/images/madridcomer.jpeg');
-    background-size: cover;
-    background-position: center;
+   
   }
  
   
