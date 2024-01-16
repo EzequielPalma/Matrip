@@ -1,7 +1,5 @@
 'use client'
 import React, { useState } from 'react';
-import Navbar from './Navbar';
-import FetchRestaurantes from './FetchRestaurantes';
 import SobreNosotros from './SobreNosotros';
 
 
@@ -13,7 +11,6 @@ const FrontPageSobreNosotros = () => {
   return (
     <div>
 
-      <Navbar/>
 
       <div id="nav-opened" className={`fixed left-0 right-0 ${isNavOpen ? 'block' : 'hidden'} bg-white mx-2 mt-16 rounded-br rounded-bl shadow z-10`}>
         <div className="p-2 divide-y divide-gray-600 flex flex-col">

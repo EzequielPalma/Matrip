@@ -6,8 +6,7 @@
 
 
 header {
-    background-size: cover;
-    background-position: center;
+  
     height: 100vh;
     display: flex;
     align-items: flex-end;
@@ -19,27 +18,45 @@ header {
 
   .altura{
     height: 550px;
+    background-size: cover;
+    background-position: center;
   }
  
-  
+  .description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;  
+    position: relative;
+    bottom: 410px;
+    right: 455px;
+  }
 
   #up{
-    background: url('/images/madrid.jpeg');
+    background: url('/images/madridcielo.jpg');
+    background-size: cover;
+    background-position: center;
   
   }
 
   #quever{
     background: url('/images/madridquever.jpeg');
+    background-size: cover;
+    background-position: center;
    
   }
 
   #sobrenosotros{
     background: url('/images/madridsobrenosotros.jpeg');
+    background-size: cover;
+    background-position: center;
 
   }
 
   #comer {
     background: url('/images/madridcomer.jpeg');
+    background-size: cover;
+    background-position: center;
    
   }
  
@@ -94,4 +111,10 @@ header {
 
   #temp {
     height:40px;
+  }
+
+
+  .hwCard {
+    height: 160px;
+    width: 240px;
   }
