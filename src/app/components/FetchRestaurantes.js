@@ -27,7 +27,7 @@ const FetchRestaurantes = () => {
 
   // Configuración del carrusel
   const carouselSettings = {
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 500,
     slidesToShow: 3, // Ajusta según tus necesidades
@@ -36,11 +36,20 @@ const FetchRestaurantes = () => {
     draggable: true,
     responsive: [
       {
+        breakpoint: 1000,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2
+        },
+        
+      },
+      {
         breakpoint: 768,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1
         },
+        
       },
     ],
   };
@@ -48,7 +57,7 @@ const FetchRestaurantes = () => {
   return (
     <Slider {...carouselSettings} className="carrusel ">
       {restaurantes.map((item, index) => (
-        <div key={index} className="tarjeta ">
+        <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg  ">
           <CardComer item={item} />
         </div>
       ))}

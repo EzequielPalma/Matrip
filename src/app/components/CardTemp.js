@@ -7,7 +7,7 @@ function CardTemp({ resolvedAddress, weatherData, loading }) {
     return <p>Cargando...</p>;
   }  return (
     <div className="flex justify-center">
-      <div className="card min-w-sm max-w-sm border border-gray-100 bg-gray-50 transition-shadow test shadow-lg hover:shadow-shadow-xl w-full bg-gray-600 text-purple-50 rounded-md">
+      <div className="card min-w-sm max-w-sm border border-gray-100 bg-zinc-800 transition-shadow test shadow-lg hover:shadow-shadow-xl w-full bg-gray-600 text-purple-50 rounded-md">
         <h2 className="text-md mb-2 px-4 pt-4">
           <div className="flex justify-between">
             <div className="badge relative top-0">
