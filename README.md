@@ -1,42 +1,39 @@
-<img src="/public/rickand.png" alt="Descripción de la imagen" width="400"/>
-*Figura 1: Logo del proyecto*
 
+# Proyecto Matrip
 
-
-# Proyecto Rick y Morty
-
-Este proyecto fue creado con `create-react-app` y utiliza la API de Rick y Morty para mostrar información sobre los personajes de la serie.
+Este proyecto fue creado con `create-next-app` y utiliza la API de Visual Crossing y dos archivos JSON para hacer tu experiencia en Madrid más sencilla y disfrutable.
 
 ## Descripción
 
-El objetivo de este proyecto es explorar el uso de React y la integración con una API externa para mostrar información relevante sobre los personajes de Rick y Morty.
+El objetivo de este proyecto es explorar el uso de Next.js y la integración con una API externa para mostrar información relevante sobre Madrid.
 
-## Funcionalidades
-
-- **Búsqueda de Personajes:** Utiliza un componente de búsqueda para filtrar los personajes por nombre.
-- **Filtrado por Estado:** Permite filtrar los personajes por su estado (vivo, muerto, desconocido).
-- **Paginación:** Muestra los resultados paginados para facilitar la navegación.
 
 ## Tecnologías Utilizadas
 
-- React
-- Bootstrap para el estilo y componentes
-- React Router para la navegación entre páginas
+- Next.js 14.
+- Tailwind para el estilo y componentes
+- App-Router para la navegación entre páginas
 
 ## Instrucciones de Uso
 
 1. Clona este repositorio.
 2. Ejecuta `npm install` para instalar las dependencias.
-3. Ejecuta `npm install react-bootstrap bootstrap` para instalar bootstrap.
-4. Ejecuta `npm install react-router-dom` para instalar las dependencias de React-Router.
-5. Ejecuta `npm start` para iniciar la aplicación en modo desarrollo.
+3. Ejecuta `npm run dev` para iniciar la aplicación en modo desarrollo.
 
 ## Capturas de Pantalla
 
 ![Captura de pantalla 1](public/captura1.png)
 ![Captura de pantalla 2](public/captura2.png)
+![Captura de pantalla 3](public/captura3.png)
 
-En estas capturas podemos ver que tiene un diseño responsive en ambas páginas del proyecto.
+En estas capturas podemos ver el diseño responsive.
+
+## Equipo
+
+Product Owner: Catalina Arias.
+Scrum Master: Ezequiel Palma.
+Desarrolladora: Ana Laredo.
+Desarrollador: Mohammed.
 
 ## Contribuciones
 
@@ -51,4 +48,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejo
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EzequielPalma&theme=dark&locale=es)](https://git.io/streak-stats)
+
