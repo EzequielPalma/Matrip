@@ -22,7 +22,7 @@ El objetivo de este proyecto es explorar el uso de Next.js y la integración con
 
 ## Capturas de Pantalla
 
-# Home
+### Home
 ![Captura de pantalla 1](public/images/captura1.png)
 # Carrusel
 ![Captura de pantalla 2](public/images/captura2.png)
