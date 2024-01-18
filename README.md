@@ -5,7 +5,7 @@ Este proyecto fue creado con `create-next-app` y utiliza la API de Visual Crossi
 
 ## Descripción
 
-El objetivo de este proyecto es explorar el uso de Next.js y la integración con una API externa para mostrar información relevante sobre Madrid.
+El objetivo de este proyecto es explorar el uso de Next.js y la integración con una API externa para mostrar información relevante sobre Madrid y el usuario pueda utilizar dicha información como guía.
 
 
 ## Tecnologías Utilizadas
