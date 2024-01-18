@@ -22,8 +22,11 @@ El objetivo de este proyecto es explorar el uso de Next.js y la integración con
 
 ## Capturas de Pantalla
 
+# Home
 ![Captura de pantalla 1](public/images/captura1.png)
+# Carrusel
 ![Captura de pantalla 2](public/images/captura2.png)
+# Sobre nosotros.
 ![Captura de pantalla 3](public/images/captura3.png)
 
 En estas capturas podemos ver el diseño responsive.
