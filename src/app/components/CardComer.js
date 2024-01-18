@@ -12,7 +12,6 @@ export default function CardComer({ item }) {
         <p className="mb-3  text-sm text-slate-100	 ">{item.description}</p>
         <p className="mb-3 text-sm text-slate-100	 "> <strong>{item.address}</strong></p>
         <p className="mb-3 text-sm text-slate-100	 ">El precio medio es <strong>{item.price}</strong></p>
-
       </div>
     </a>
  
