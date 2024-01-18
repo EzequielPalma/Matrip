@@ -41,7 +41,7 @@ const FetchRestaurantes = () => {
           slidesToShow: 2,
           slidesToScroll: 2
         },
-        
+
       },
       {
         breakpoint: 768,
@@ -49,7 +49,7 @@ const FetchRestaurantes = () => {
           slidesToShow: 1,
           slidesToScroll: 1
         },
-        
+
       },
     ],
   };

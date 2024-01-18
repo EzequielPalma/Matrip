@@ -39,7 +39,7 @@ const FetchLugares = () => {
           slidesToShow: 2,
           slidesToScroll: 2
         },
-        
+
       },
       {
         breakpoint: 768,
@@ -47,20 +47,20 @@ const FetchLugares = () => {
           slidesToShow: 1,
           slidesToScroll: 1
         },
-        
+
       },
     ],
   };
 
 
   return (
-      <Slider {...carouselSettings} className="carrusel">
-        {places.map((item, index) => (
-          <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg  ">
-            <Card item={item} />
-          </div>
-        ))}
-      </Slider>
+    <Slider {...carouselSettings} className="carrusel">
+      {places.map((item, index) => (
+        <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg  ">
+          <Card item={item} />
+        </div>
+      ))}
+    </Slider>
   );
 };
 

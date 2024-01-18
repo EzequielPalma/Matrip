@@ -17,11 +17,11 @@ const Descripcion2 = () => {
           ¡De Madrid al cielo!
         </div>
 
-        
-      <p className="text-left text-sm sm:text-base md:text-lg lg:text-xl xl:text-xl text-white">
-        Deja que esta ciudad te envuelva con su encanto, <br />
-        susurros de historia y la calidez de su gente. 
-      </p>
+
+        <p className="text-left text-sm sm:text-base md:text-lg lg:text-xl xl:text-xl text-white">
+          Deja que esta ciudad te envuelva con su encanto, <br />
+          susurros de historia y la calidez de su gente.
+        </p>
       </div>
     </motion.div>
   );
