@@ -9,14 +9,11 @@ const FrontPageQuever = () => {
 
 
   return (
-    <div>     
-
-      <header id="quever" className="bg-center bg-fixed bg-no-repeat bg-center bg-cover h-screen relative">
+      <main id="quever" className="bg-center bg-fixed bg-no-repeat bg-center bg-cover h-screen relative">
         <div className="mx-2 text-center">
             <FetchLugares/>
         </div>
-      </header>
-    </div>
+      </main>
   );
 };
 
