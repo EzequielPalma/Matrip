@@ -32,8 +32,7 @@ const MiComponente = () => {
   }, []);
 
   return (
-    <div>
-      
+    <div>      
       <CardTemp resolvedAddress={resolvedAddress} weatherData={weatherData} loading={loading} />
     </div>
   );
