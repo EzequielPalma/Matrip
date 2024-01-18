@@ -1,4 +1,3 @@
-
 import FrontPageComer from '../components/FrontPageComer'
 
 
