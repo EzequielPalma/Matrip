@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
 
-export default function CardLugares({item}) {
+export default function Card({item}) {
   return (
     <a href="#" className="rounded-t-lg">
       <img className="rounded-t-lg mt-2 scale-75 hwCard" src={item.image} alt="" />

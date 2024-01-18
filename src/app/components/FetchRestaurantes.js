@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useEffect, useState } from 'react';
-import CardComer from './CardComer';
+import Card from './Card';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
@@ -58,7 +58,7 @@ const FetchRestaurantes = () => {
     <Slider {...carouselSettings} className="carrusel ">
       {restaurantes.map((item, index) => (
         <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg  ">
-          <CardComer item={item} />
+          <Card item={item} />
         </div>
       ))}
     </Slider>
