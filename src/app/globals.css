@@ -106,19 +106,6 @@ main {
   }
  
   
-  header::before {
-    content: '';
-    background: url('/images/madrid.jpeg');
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0.5; /* Ajusta el nivel de opacidad según tus necesidades */
-    z-index: -1;
-  }
  
 
 
