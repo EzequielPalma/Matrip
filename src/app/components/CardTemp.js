@@ -1,6 +1,5 @@
 "use client"
 
-import React from "react";
 function CardTemp({ resolvedAddress, weatherData, loading }) {
   if (loading) {
     // Muestra un mensaje de carga o algún indicador mientras se carga la data
