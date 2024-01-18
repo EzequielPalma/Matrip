@@ -32,7 +32,7 @@ export default function ModalTemp() {
                     className="fixed inset-0 z-50 overflow-y-auto bg-gray-50 bg-opacity-75 flex justify-center items-center"
                     onClick={cerrarModal}
                 >
-                    <div className="relative rounded-lg shadow w-full max-w-2xl">
+                    <div className="relative rounded-lg  w-full max-w-2xl">
                         <div className="p-4 md:p-5 space-y-4">
                             <MiComponente />
                         </div>
