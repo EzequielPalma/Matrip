@@ -1,7 +1,7 @@
 "use client"
 export default function Card({ item }) {
   return (
-    <a href="#" className="rounded-t-lg">
+    <a href="#" className="rounded-t-lg ">
       <img className="rounded-t-lg mt-2 scale-75 hwCard" src={item.image} alt="" />
       <div className="flex flex-col justify-between pr-4 pl-4 pb-4  leading-normal">
         <h5 className="mb-2 text-lg font-bold tracking-tight text-slate-100	">{item.name}</h5>

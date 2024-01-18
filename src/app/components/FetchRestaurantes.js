@@ -57,7 +57,7 @@ const FetchRestaurantes = () => {
   return (
     <Slider {...carouselSettings} className="carrusel ">
       {restaurantes.map((item, index) => (
-        <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg  ">
+        <div key={index} className="bg-zinc-800 tarjeta	rounded-t-lg transition-transform duration-300  hover:scale-105 ">
           <Card item={item} />
         </div>
       ))}
