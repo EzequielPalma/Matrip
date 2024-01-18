@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Proyecto Matrip
 
-First, run the development server:
+Este proyecto fue creado con `create-next-app` y utiliza la API de Visual Crossing y dos archivos JSON para hacer tu experiencia en Madrid más sencilla y disfrutable.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Descripción
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+El objetivo de este proyecto es explorar el uso de Next.js y la integración con una API externa para mostrar información relevante sobre Madrid.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologías Utilizadas
 
-## Learn More
+- Next.js 14.
+- Tailwind para el estilo y componentes
+- App-Router para la navegación entre páginas
 
-To learn more about Next.js, take a look at the following resources:
+## Instrucciones de Uso
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clona este repositorio.
+2. Ejecuta `npm install` para instalar las dependencias.
+3. Ejecuta `npm run dev` para iniciar la aplicación en modo desarrollo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Capturas de Pantalla
 
-## Deploy on Vercel
+![Captura de pantalla 1](public/captura1.png)
+![Captura de pantalla 2](public/captura2.png)
+![Captura de pantalla 3](public/captura3.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+En estas capturas podemos ver el diseño responsive.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Equipo
+
+Product Owner: Catalina Arias.
+Scrum Master: Ezequiel Palma.
+Desarrolladora: Ana Laredo.
+Desarrollador: Mohammed.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, ¡siéntete libre de abrir un problema o enviar un pull request!
+
+## Estado del Proyecto
+![Mínimo producto viable](https://img.shields.io/badge/MVP-%20Completado-green)
+![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-orange)
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+
+
