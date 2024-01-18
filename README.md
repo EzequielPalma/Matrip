@@ -33,10 +33,10 @@ En estas capturas podemos ver el diseño responsive.
 
 ## Equipo
 
-### Product Owner: Catalina Arias.
-### Scrum Master: Ezequiel Palma.
-### Desarrolladora: Ana Laredo.
-### Desarrollador: Mohammed.
+#### Product Owner: Catalina Arias.
+#### Scrum Master: Ezequiel Palma.
+#### Desarrolladora: Ana Laredo.
+#### Desarrollador: Mohammed.
 
 ## Contribuciones
 
